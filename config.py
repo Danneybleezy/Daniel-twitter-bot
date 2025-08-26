@@ -1,0 +1,12 @@
+# Config handled via environment variables in DBOS
+# Required secrets:
+# TWITTER_API_KEY=
+# TWITTER_API_SECRET=
+# TWITTER_ACCESS_TOKEN=
+# TWITTER_ACCESS_SECRET=
+# FACEBOOK_PAGE_TOKEN=
+# TELEGRAM_BOT_TOKEN=
+# TELEGRAM_CHANNEL_ID=
+# GROQ_API_KEY=
+# Optional:
+# TEST_MODE=true
